@@ -1,2 +1,2 @@
 # INP second project
-VHDL brainfuck intrpret
+VHDL brainfuck interpret
